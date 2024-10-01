@@ -42,6 +42,10 @@ PyTorch
 
 BLAS (Math Kernel Library)
 
+SHAP
+
+Dask
+
 
 # License
 
