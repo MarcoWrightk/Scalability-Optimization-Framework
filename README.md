@@ -34,17 +34,17 @@ python src/main.py
 
 # Build with
 
-Python
+•Python
 
-TensorFlow
+•TensorFlow
 
-PyTorch
+•PyTorch
 
-BLAS (Math Kernel Library)
+•BLAS (Math Kernel Library)
 
-SHAP
+•SHAP
 
-Dask
+•Dask
 
 
 # License
